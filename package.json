@@ -1,0 +1,15 @@
+{
+  "name": "discord.js-structures",
+  "version": "1.0.0",
+  "description": "Adds discord.js structures back into discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "discord.js": ">=13.0.0-dev.0"
+  }
+}
